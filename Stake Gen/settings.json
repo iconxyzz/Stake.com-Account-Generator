@@ -1,0 +1,9 @@
+{
+    "confirmMailVerification":true,
+    "note": "you can use capmonster or capsolver",
+    "captcha_service":"capmonster",
+    "captcha_key":"",
+    "threads":5,
+    "notee": "https or http",
+    "proxyType":"http" 
+}
