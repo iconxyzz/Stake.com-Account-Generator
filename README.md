@@ -21,7 +21,7 @@ This script automates the creation of tokens for Stake.com. It handles bypassing
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/idkconsole/Stake.com-Account-Generator
+   git clone https://github.com/iconxyzz/Stake.com-Account-Generator
    cd Stake.com-Account-Generator
    ```
 
